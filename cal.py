@@ -5,5 +5,5 @@ def substract(a,b):
 	return a-b
 def multifly(a,b):
 	return a*b
-def devide(a,b):
+def devide_free(a,b):
 	return a/b
